@@ -1,0 +1,23 @@
+# Raw datasets are large and should be downloaded separately.
+creditcard.csv
+*.csv
+
+# Local Python installations and virtual environments.
+python/
+.venv/
+venv/
+
+# Python cache and tooling files.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.matplotlib/
+
+# Local run logs and editor files.
+*.log
+*_run_log.txt
+.vscode/
+.idea/
+
+# Separate nested repository; do not include it in this portfolio repository.
+fraud_detection/
