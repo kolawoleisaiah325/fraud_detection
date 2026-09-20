@@ -62,7 +62,7 @@ The script prints the model-comparison table and saves three PNG visualizations 
 ## Project structure
 
 ```text
-credit-card-fraud-detection/
+fraud_detection/
 |-- fraud_detection.py
 |-- requirements.txt
 |-- README.md
